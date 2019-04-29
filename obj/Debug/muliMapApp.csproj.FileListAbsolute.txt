@@ -1,0 +1,6 @@
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\obj\Debug\muliMapApp.csproj.CoreCompileInputs.cache
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\bin\Debug\muliMapApp.exe.config
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\bin\Debug\muliMapApp.exe
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\bin\Debug\muliMapApp.pdb
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\obj\Debug\muliMapApp.exe
+C:\Users\GaKhalatyan\source\repos\muliMapApp\muliMapApp\obj\Debug\muliMapApp.pdb
